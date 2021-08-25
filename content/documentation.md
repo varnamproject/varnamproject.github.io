@@ -7,13 +7,13 @@ image = 'read.jpg'
 # Varnam documents
 
 * [FAQ](../post/faq)
-* Getting started
-* Concepts
-* Adding a new language
-* Contributing to varnam
-* Introduction to the programming interface
+* [Getting started](../post/getting-started)
+* [Concepts](../post/concepts)
+* [Adding a new language](../post/adding-a-new-language)
+* [Contributing to varnam](../content/post/contributing)
+* [Introduction to the programming interface](../post/varnam-api)
 * Bug reports
-* Language bindings
+* [Language bindings](../post/language-bindings)
 
 ### Mailing list
 

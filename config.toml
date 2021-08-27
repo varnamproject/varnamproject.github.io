@@ -2,7 +2,7 @@
 baseurl = "/"
 languageCode = "en-us"
 defaultContentLanguage = "en"
-title = "Okkur - Syna"
+title = "Varnam"
 theme = "syna"
 themesDir = "themes"
 enableGitInfo = true
@@ -77,8 +77,8 @@ googleAnalytics = ""
   weight = 10
 
 [[menu.main]]
-  url = "/fragments"
-  name = "Fragments"
+  url = "docs/install"
+  name = "Download"
   weight = 20
 
 [[menu.main]]

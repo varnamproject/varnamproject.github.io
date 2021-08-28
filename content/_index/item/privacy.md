@@ -4,7 +4,7 @@ weight = 13
 #disabled = true
 
 [asset]
-  icon = "fas fa-random"
+  image = "security.png"
   url = "#"
 +++
 

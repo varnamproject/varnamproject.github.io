@@ -1,6 +1,9 @@
-[submodule "themes/hugo-swift-theme"]
-	path = themes/hugo-swift-theme
-	url = https://github.com/onweru/hugo-swift-theme.git
+[submodule "themes/syna"]
+	path = themes/syna
+	url = https://git.okkur.org/syna
+
 [submodule "varnam-editor"]
 	path = varnam-editor
 	url = https://github.com/thetronjohnson/varnam-editor.git
+
+

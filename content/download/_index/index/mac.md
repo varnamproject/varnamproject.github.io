@@ -4,7 +4,7 @@ weight = 11
 #disabled = true
 
 [asset]
-  icon = "fas fa-random"
+  icon = "fab fa-apple"
   url = "/download/mac"
 +++
 

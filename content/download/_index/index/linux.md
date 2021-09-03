@@ -3,6 +3,6 @@ title = "Linux"
 weight = 10
 
 [asset]
-  icon = "fas fa-random"
+  icon = "fab fa-linux"
   url = "/download/linux"
 +++

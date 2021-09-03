@@ -4,6 +4,6 @@ weight = 9
 #disabled = true
 
 [asset]
-  icon = "fas fa-random"
+  icon = "fab fa-windows"
   url = "/download/windows"
 +++

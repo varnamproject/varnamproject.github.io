@@ -5,5 +5,5 @@ weight = 9
 
 [asset]
   icon = "fas fa-random"
-  url = "../docs/windows"
+  url = "/download/windows"
 +++

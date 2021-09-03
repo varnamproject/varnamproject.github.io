@@ -19,12 +19,12 @@ subtitle = "Type Indian Languages Easily"
 
 [[buttons]]
   text = "Try Now"
-  url = "https://www.varnamproject.com/editor"
+  url = "/editor"
   color = "info" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
 
 [[buttons]]
   text = "Download"
-  url = "docs/install"
+  url = "download"
   color = "primary"
 
 [[buttons]]

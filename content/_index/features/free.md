@@ -8,4 +8,4 @@ weight = 14
   url = "#"
 +++
 
-[All of Varnam's code is publicly available to inspect and verify](https://github.com/varnamproject)
+All Of Varnam's Code Is **[Publicly Available](https://github.com/varnamproject)** To Inspect & Verify

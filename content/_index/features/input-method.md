@@ -4,8 +4,8 @@ weight = 10
 #disabled = true
 
 [asset]
-  image = "1.png"
+  icon = "fa fa-pencil-alt"
   url = "#"
 +++
 
-Type anywhere on screen
+Type Anywhere

@@ -4,8 +4,8 @@ weight = 11
 #disabled = true
 
 [asset]
-  icon = "fa fa-signal"
+  icon = "fa fa-phone-slash"
   url = "#"
 +++
 
-No Internet required
+No Internet Required

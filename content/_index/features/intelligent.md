@@ -8,4 +8,4 @@ weight = 12
   url = "#"
 +++
 
-Varnam learns words as you type in your device
+Varnam Learn Words As You Type

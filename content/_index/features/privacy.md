@@ -8,4 +8,4 @@ weight = 13
   url = "#"
 +++
 
-All data remain on your device
+All Data Remain On Your Device

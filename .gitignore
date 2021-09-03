@@ -41,3 +41,4 @@ tags
 
 # Coc configuration directory
 .vim
+.vscode

@@ -4,7 +4,7 @@ fragment = "hero"
 date = "2021-09-01"
 weight = 70
 background = "light" # can influence the text color
-particles = true
+particles = false
 
 title = ""
 subtitle = "Free To Write Anything!"

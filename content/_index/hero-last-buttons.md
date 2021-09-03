@@ -1,7 +1,7 @@
 +++
 fragment = "hero"
 #disabled = true
-date = "2021-09-04"
+date = "2021-09-01"
 weight = 80
 background = "medium" # can influence the text color
 particles = true

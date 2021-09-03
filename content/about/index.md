@@ -1,4 +1,4 @@
 +++
 title = "About Syna"
-date = "2017-10-05"
+date = "2021-09-01"
 +++

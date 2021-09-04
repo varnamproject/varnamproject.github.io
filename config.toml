@@ -26,13 +26,8 @@ googleAnalytics = ""
      unsafe = true
 
 [params]
-<<<<<<< HEAD
-  name = "Okkur Labs"
-  description = "Open Source Theme for your next project"
-=======
   name = "Varnam"
   description = "Type Indian Languages easily on desktop, web and mobile"
->>>>>>> upstream/master
   debug = true
   unsafeEvents = true # Default is false. Enables ?event=type format of url events.
 
@@ -97,16 +92,6 @@ googleAnalytics = ""
   weight = 40
 
 [[menu.footer]]
-<<<<<<< HEAD
-  url = "https://syna.okkur.org/demo"
-  name = "Getting Started"
-  weight = 10
-
-[[menu.footer]]
-  url = "https://about.okkur.org/"
-  name = "About Okkur Labs"
-  weight = 20
-=======
   url = "/editor"
   name = "Demo"
   weight = 10
@@ -120,19 +105,10 @@ googleAnalytics = ""
   url = "/docs"
   name = "Guide"
   weight = 10
->>>>>>> upstream/master
 
 [[menu.footer_social]]
   weight = 30
   name = "github"
-<<<<<<< HEAD
-  url = "https://git.okkur.org/syna"
-  pre = "fab fa-github fa-stack-2x"
-
-[[menu.copyright_footer]]
-  url = "/about"
-  name = "About Us"
-=======
   url = "https://github.com/varnamproject"
   pre = "fab fa-github fa-stack-2x"
 
@@ -145,5 +121,4 @@ googleAnalytics = ""
 [[menu.copyright_footer]]
   url = "https://indicproject.org/"
   name = "Indic Project"
->>>>>>> upstream/master
   weight = 10

@@ -2,19 +2,11 @@
 +++
 fragment = "content"
 #disabled = true
-<<<<<<< HEAD
-date = "2016-09-07"
-weight = 130
-#background = "secondary"
-
-title = "Varnam Documents"
-=======
 date = "2021-09-01"
 weight = 130
 #background = "secondary"
 
 title = "Varnam Docs"
->>>>>>> upstream/master
 #subtitle = "Split in two!"
 #title_align = "left" # Default is center, can be left, right or center
 
@@ -25,7 +17,7 @@ title = "Varnam Docs"
   content = """
 * [FAQ](faq)
 * [Getting started](getting-started)
-* [Installation](install)
+* [Installation](../download)
 * [Adding a new language](adding-a-new-language)
 * [Contributing to varnam](contributing)
 * [Introduction to the programming interface](varnam-api)

@@ -1,23 +1,16 @@
 +++
 fragment = "hero"
 #disabled = true
-<<<<<<< HEAD
-date = "2016-09-07"
-weight = 50
-background = "light" # can influence the text color
-particles = true
-=======
 date = "2021-09-01"
 weight = 10
 background = "light" # can influence the text color
 particles = false
->>>>>>> upstream/master
 
 title = "Varnam"
 subtitle = "Type Indian Languages Easily"
 
 [header]
-  image = "header.jpg"
+  image = "header.jpeg"
 
 [asset]
   image = "logo.svg"
@@ -31,11 +24,7 @@ subtitle = "Type Indian Languages Easily"
 
 [[buttons]]
   text = "Download"
-<<<<<<< HEAD
-  url = "docs/install"
-=======
   url = "download"
->>>>>>> upstream/master
   color = "primary"
 
 [[buttons]]

@@ -13,7 +13,3 @@ menu_title = ""
   text = "Logo Subtext"
   url = "#"
 +++
-<<<<<<< HEAD
-
-=======
->>>>>>> upstream/master

@@ -1,7 +1,11 @@
 +++
 fragment = "contact"
 disabled = true
+<<<<<<< HEAD
 date = "2017-09-10"
+=======
+date = "2021-09-01"
+>>>>>>> upstream/master
 weight = 100
 #background = "light"
 form_name = "defaultContact"

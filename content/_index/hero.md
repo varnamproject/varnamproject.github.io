@@ -1,10 +1,17 @@
 +++
 fragment = "hero"
 #disabled = true
+<<<<<<< HEAD
 date = "2016-09-07"
 weight = 50
 background = "light" # can influence the text color
 particles = true
+=======
+date = "2021-09-01"
+weight = 10
+background = "light" # can influence the text color
+particles = false
+>>>>>>> upstream/master
 
 title = "Varnam"
 subtitle = "Type Indian Languages Easily"
@@ -19,12 +26,16 @@ subtitle = "Type Indian Languages Easily"
 
 [[buttons]]
   text = "Try Now"
-  url = "https://www.varnamproject.com/editor"
+  url = "/editor"
   color = "info" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
 
 [[buttons]]
   text = "Download"
+<<<<<<< HEAD
   url = "docs/install"
+=======
+  url = "download"
+>>>>>>> upstream/master
   color = "primary"
 
 [[buttons]]

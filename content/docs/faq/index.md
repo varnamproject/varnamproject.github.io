@@ -2,11 +2,11 @@
 +++
 fragment = "content"
 #disabled = true
-date = "2016-09-07"
+date = "2021-09-01"
 weight = 130
 #background = "secondary"
 
-title = "Varnam Documents"
+title = "FAQ"
 #subtitle = "Split in two!"
 #title_align = "left" # Default is center, can be left, right or center
 

@@ -4,6 +4,6 @@
 
 [submodule "varnam-editor"]
 	path = varnam-editor
-	url = https://github.com/thetronjohnson/varnam-editor.git
+	url = https://github.com/varnamproject/editor.git
 
 

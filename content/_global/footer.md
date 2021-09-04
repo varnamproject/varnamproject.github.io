@@ -1,9 +1,9 @@
 +++
 fragment = "footer"
 #disabled = true
-date = "2016-09-07"
+date = "2021-09-01"
 weight = 1200
-#background = ""
+#background = true
 
 menu_title = ""
 
@@ -13,4 +13,7 @@ menu_title = ""
   text = "Logo Subtext"
   url = "#"
 +++
+<<<<<<< HEAD
 
+=======
+>>>>>>> upstream/master

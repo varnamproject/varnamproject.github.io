@@ -14,6 +14,7 @@ title = "Varnam Docs"
   title = "Varnam"
   align = "left"
   sticky = true # Default is false
+  disabled = true
   content = """
 * [FAQ](faq)
 * [Getting started](getting-started)

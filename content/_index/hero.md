@@ -10,7 +10,7 @@ title = "Varnam"
 subtitle = "Type Indian Languages Easily"
 
 [header]
-  image = "header.jpeg"
+  image = "header.jpg"
 
 [asset]
   image = "logo.svg"

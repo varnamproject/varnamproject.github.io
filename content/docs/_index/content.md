@@ -17,7 +17,7 @@ enable = true
 ### Contact
 
 * [Telegram Group](https://t.me/varnamproject): varnamproject
-* [Matrix Room](https://telegram.me/varnamproject): #varnamproject:poddery.com
+* [Matrix Room](https://matrix.to/#/#varnamproject:poddery.com): #varnamproject:poddery.com
 * [GitHub](https://github.com/varnamproject)
 
 ### Credits

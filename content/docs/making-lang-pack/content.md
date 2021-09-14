@@ -5,7 +5,6 @@ fragment = "content"
 date = "2021-09-01"
 weight = 100
 
-
 [sidebar]
   enable = true
   sticky = true

@@ -104,6 +104,21 @@ An easy way to type Indian languages on GNU/Linux systems.
 * Go to IBus Settings -> Input Method and add Varnam input method.
 * Maybe set an easy to use switch key to switch between languages (Default is `Meta Key` (Windows Key) + `Space`)
 
+### Usage
+
+#### Type System-Wide
+
+Read [docs on Varnam IBus Engine](/docs/varnam-ibus-engine) for useful tips.
+
+#### Terminal
+
+Transliterate a word:
+```bash
+varnamcli -s ml namaskaaram
+```
+
+Learnin words: [See docs](/docs/learning)
+
 ### Uninstall
 
 You can uninstall each of the components with this same command on each of them:

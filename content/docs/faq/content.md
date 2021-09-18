@@ -27,4 +27,8 @@ Varnam learn words you type and store it in your device only.
 
 ## Where can I file issues or get help ?
 
-We have public Telegram & Matrix groups. See [about](/about)
+We have public Telegram & Matrix groups. See [about page](/about).
+
+If you know GitHub, you can file issues directly at https://github.com/varnamproject/govarnam/issues
+
+Or you can submit them at https://community.smc.org.in/c/dev/varnam

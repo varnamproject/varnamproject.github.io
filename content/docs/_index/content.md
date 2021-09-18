@@ -16,7 +16,7 @@ enable = true
 
 Want to install Varnam ? See [downloads](/download/)
 
-Installed Varnam IBus Engine for the first time ? Read [more about it](/varnam-ibus-engine/)
+Installed Varnam IBus Engine for the first time ? Read [more about it](/docs/varnam-ibus-engine/)
 
 
 Need help ? [Contact us](/about/)

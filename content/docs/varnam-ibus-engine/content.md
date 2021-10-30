@@ -14,13 +14,13 @@ An input method (IME) is an operating system component or program that enables u
 
 IMEs are mostly used to type non-English languages in computer using an English keyboard.
 
-## IBus Engine
+### IBus Engine
 
 [IBus (Intelligent Input Bus)](https://en.wikipedia.org/wiki/Intelligent_Input_Bus) is an input method (IM) framework for multilingual input in GNU/Linux operating-systems.
 
 ## Varnam IBus Engine
 
-Varnam has a IBus Engine to type Indian languages on GNU/Linux systems. [See its repository](https://github.com/varnamproject/govarnam-ibus).
+Varnam has a IBus Engine to type Indian languages on GNU/Linux systems.
 
 ![](/_index/im.png)
 
@@ -30,18 +30,11 @@ Varnam has a IBus Engine to type Indian languages on GNU/Linux systems. [See its
 * Fast
 * Integrates with any GNU/Linux OS
 
-### Setting Up IBus
-
-Most GNOME systems are well-integrated with IBus by default.
-
-ArchLinux Wiki has good information on setting up IBus: https://wiki.archlinux.org/title/IBus
-
-IBus setup might be a bit tricky in KDE.
-
 ### Tips
 
 * Use number keys for selecting a suggestion quickly
-* Use Up/Down arrow to move over suggestions
+* Use UP/DDOWN arrow keys to move over suggestions
+* Use `ALT + ARROW UP/DOWN` for moving between suggestion pages
 * Highlight a suggestion, press `CTRL + DEL` to unlearn that suggestion if it is in the dictionary
 
 ### Learning Words

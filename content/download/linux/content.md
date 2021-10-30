@@ -20,15 +20,21 @@ There is a simple quick way to install the above 3. Or you can install them step
 
 ### Quick Install
 
-Open a terminal, paste this and press enter :
+**Recommended for everyone**
+
+Open a terminal (`CTRL + ALT + T`), paste this and press enter :
 
 ```bash
 bash <(curl -s https://raw.githubusercontent.com/varnamproject/govarnam/master/quick-installer.sh)
 ```
 
-Follow the instructions to complete installation.
+Follow the instructions shown in terminal to complete installation.
 
-### Manual
+After installation, see [Getting Started](/docs/getting-started).
+
+### Manual Install
+
+**NOT Recommended for beginners**.
 
 Here's the way to install Varnam step-by-step.
 
@@ -101,8 +107,8 @@ An easy way to type Indian languages on GNU/Linux systems.
   ```bash
   ibus restart
   ```
-* Go to IBus Settings -> Input Method and add Varnam input method.
-* Maybe set an easy to use switch key to switch between languages (Default is `Meta Key` (Windows Key) + `Space`)
+
+After installation, see [Getting Started](/docs/getting-started) and enable Varnam IBus Engine.
 
 ### Usage
 
@@ -117,7 +123,9 @@ Transliterate a word:
 varnamcli -s ml namaskaaram
 ```
 
-Learnin words: [See docs](/docs/learning)
+#### Learning Words
+
+Learning words: [See documentation on learning](/docs/learning)
 
 ### Uninstall
 

@@ -90,6 +90,12 @@ To train a single word:
 varnamcli -s ml -train firefox=ഫയർഫോക്സ്
 ```
 
+Now if we give the input "firefox" for transliteratrion:
+
+```bash
+varnamcli -s ml firefox // ഫയർഫോക്സ്
+```
+
 ### Train From File
 
 Varnam can train patterns from a file like this:

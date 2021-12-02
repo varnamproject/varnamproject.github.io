@@ -33,7 +33,7 @@ Varnam has a IBus Engine to type Indian languages on GNU/Linux systems.
 ### Tips
 
 * Use number keys for selecting a suggestion quickly
-* Use UP/DDOWN arrow keys to move over suggestions
+* Use UP/DOWN arrow keys to move over suggestions
 * Use `ALT + ARROW UP/DOWN` for moving between suggestion pages
 * Highlight a suggestion, press `CTRL + DEL` to unlearn that suggestion if it is in the dictionary
 

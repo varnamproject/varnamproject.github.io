@@ -40,7 +40,7 @@ You can find tips and more information about Varnam IBus Engine [here](/docs/var
 
 ## Mac
 
-Coming Soon...
+[Install for Mac](https://varnamproject.com/download/mac/)
 
 ## Windows
 

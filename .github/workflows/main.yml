@@ -37,6 +37,6 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: gh-pages
           publish_dir: ./public
-          CNAME: typeindianlang.online
+          CNAME: varnamproject.com
 
           

@@ -21,9 +21,7 @@ PeerTube: https://peertube.debian.social/w/vWwMGcmTZG9n1UWv8ZdimB?s=1
 
 ## Does Varnam know what I'm typing ?
 
-Varnam runs entirely on your device. There is **NO DATA-SHARING** with anyone or any servers. There is also **NO TRACKING** and **NO ANALYTICS**. In fact there is no internet communication at all.
-
-Varnam learn words you type and store it in your device only.
+Varnam runs entirely on your device. There is **NO DATA-SHARING** with anyone or any servers. There is also **NO TRACKING** and **NO ANALYTICS**. In fact there is no internet communication at all.Varnam learn words you type and store it in your device only.
 
 ## Where can I file issues or get help ?
 

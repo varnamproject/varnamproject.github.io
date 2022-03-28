@@ -22,7 +22,9 @@ There is a simple quick way to install the above 3. Or you can install them step
 
 **Recommended for everyone**
 
-Open a terminal (`CTRL + ALT + T`), paste this and press enter :
+Open a terminal application (Try shortcut <kbd>CTRL</kbd> + <kbd>ALT</kbd> + <kbd>T</kbd> or look in the application menu for "terminal").
+
+Now, paste the following and press <kbd>Enter</kbd> :
 
 ```bash
 bash <(curl -s https://raw.githubusercontent.com/varnamproject/govarnam/master/quick-installer.sh)

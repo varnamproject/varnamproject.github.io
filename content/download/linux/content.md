@@ -20,7 +20,9 @@ There is a simple quick way to install the above 3. Or you can install them step
 
 ### Quick Install
 
-**Recommended for everyone**
+**RECOMMENDED for everyone**
+
+VIDEO TUTORIAL (Ubuntu) : https://www.youtube.com/watch?v=4FNxAsH2Ebw
 
 Open a terminal application (Try shortcut <kbd>CTRL</kbd> + <kbd>ALT</kbd> + <kbd>T</kbd> or look in the application menu for "terminal").
 
@@ -36,7 +38,7 @@ After installation, see [Getting Started](/docs/getting-started).
 
 ### Manual Install
 
-**NOT Recommended for beginners**.
+**NOT RECOMMENDED for beginners**.
 
 Here's the way to install Varnam step-by-step.
 

@@ -29,10 +29,21 @@ IBus setup might be a bit tricky in KDE. It can be easily setup in ArchLinux by 
 
 #### Enabling Varnam IBus Engine
 
+##### GNOME
+
+* Go to `System Settings -> Region & Language`
+* See the section `Input Sources`
+* Click on **+** button
+* Search for "Varnam"
+* Choose your language to add
+
+##### Others
+
 * Go to IBus Settings -> Input Method tab.
 * Click "Add" Button
 * Choose your language and click "Add" button
-* That's it! You can now switch input method using mouse by clicking on the icon in system tray.
+
+That's it! You can now switch input method using mouse by clicking on the icon in system tray.
 
 You can also choose a keyboard shortcut to easily switch input methods. The default key-combo is `Meta Key` (Windows Key) + `Space`
 

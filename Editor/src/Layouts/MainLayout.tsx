@@ -3,11 +3,13 @@ import TopNavBar from "../Components/TopNavBar";
 
 function MainLayout() {
   return (
-      <div>
-          <TopNavBar></TopNavBar>
-      <div>Hello Main Layout</div>
+    <div>
+      <TopNavBar></TopNavBar>
+
       {/* PS: The Outlet is where the children defined in the AppRoute file will be rendered.  */}
-      <Outlet />
+      <div className="mt-20">
+        <Outlet />
+      </div>
     </div>
   );
 }

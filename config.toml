@@ -123,6 +123,6 @@ googleAnalytics = ""
   pre = "fab fa-telegram fa-stack-2x"
 
 [[menu.copyright_footer]]
-  url = "https://indicproject.org/"
-  name = "Indic Project"
+  url = "https://github.com/orgs/varnamproject/people"
+  name = "Varnam Contributors"
   weight = 10

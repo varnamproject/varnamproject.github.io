@@ -42,3 +42,6 @@ tags
 # Coc configuration directory
 .vim
 .vscode
+
+.DS_Store
+.hugo_build.lock
